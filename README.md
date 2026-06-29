@@ -1,2 +1,5 @@
 # Proyecto-RappiPlus
-uso de herramientas con pyton y power bi
+
+El presente proyecto, denominado RappiPlus, surge ante la necesidad de transformar grandes volúmenes de datos en decisiones estratégicas y recomendaciones accionables para el negocio. A través de un enfoque analítico e integral, el estudio se enfoca en auditar la calidad y confiabilidad de los datos disponibles como paso fundamental para garantizar la precisión de los hallazgos.
+
+A partir de esta base, la investigación aborda cuatro pilares críticos para optimizar el rendimiento de RappiPlus: la evaluación de la rentabilidad financiera mediante el análisis de ingresos, costos y ganancias; el diagnóstico del embudo de conversión para identificar los puntos de abandono de los usuarios; la medición de la lealtad de los clientes a través de un análisis de retención por cohortes; y la validación científica de nuevas iniciativas mediante pruebas estadísticas. Finalmente, todos los hallazgos clave se consolidan en un cuadro de mando automatizado (Dashboard BI), facilitando la comunicación de insights de alto valor para la dirección general.
